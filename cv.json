@@ -1,0 +1,39 @@
+{
+    "employment": [
+        {
+            "time": "2017-2018",
+            "job": "Östenssons Starby AB, Vadstena",
+            "jobTitle": "Inköpare",
+            "text": "Jag jobbade första året med att plocka upp varor i kolonialavdelningen. Andra året fick jag mer ansvar och jobbade vid frysavdelningen. Jag fick lära mig att beställa varor, kontakta leverantörer och ha hand om avdelningen helt själv så att allt var iordning."
+        },
+        {
+            "time": "2018-2019",
+            "job": "Clas Ohlson, Örebro",
+            "jobTitle": "Butiksmedarbetare",
+            "text": "Arbetsuppgifterna går ut på att vara väldigt påläst inom produkterna som finns på Clas Ohlson och att kunna hjälpa kunder så gott som möjligt med alla slags frågor. Teknik/bygg avdelningen eller att jobba i kassan var mina arbetsuppgifter."
+        },
+        {
+            "time": "2019-2021",
+            "job": "Dosapoteket Apoteket AB, Örebro",
+            "jobTitle": "Områdesansvarig",
+            "text": "Lagervård/Infattning av narkotika och andra läkemedel. Mina främsta arbetsområden bestod av att säkerställa att alla inleveranser av läkemedel packades upp och kontrollerades med rätt batch, datum och antal med vad som var aviserat till oss. Jag har gjort ett gott intryck av mig på företaget och min chef har get mig chanserna att kunna klättra mer i min roll. ag har även varit handledare till 6 personer som har varit väldigt nöjda med min pedagogik. Om dagarna så var truckkörning ett måste då vi kunde få stora kvantiteter av läkemedel som ställdes på pall."  
+        }
+    ],
+    "education": [
+        {
+            "time": "2011-2014",
+            "school": "Gymnasiet",
+            "text": "Gick ekonomilinjen på gymnasiet i Motala."
+        },
+        {
+            "time": "2016-2018",
+            "school": "Liljeholmens Folkhögskola",
+            "text": "Gick på en musikskola i 2 år och pluggade först singer/songwriter sen andra året studerade jag jazz sång i en ensamble."
+        },
+        {
+            "time": "2022-2024",
+            "school": "Chasacademy",
+            "text": "Pluggar UX/UI Designer med Frontendkompetens."
+        }
+    ]
+}
